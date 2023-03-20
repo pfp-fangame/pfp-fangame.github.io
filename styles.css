@@ -153,6 +153,8 @@ nav {
 
   padding: 1em;
   margin: 1em 20%;
+  
+  z-index: 2;
 }
 
 nav ul li {
@@ -162,6 +164,8 @@ nav ul li {
   margin: 0;
   margin-right: 1em;
   padding: 0;
+  
+  z-index: 3;
 }
 
 nav ul li a {
