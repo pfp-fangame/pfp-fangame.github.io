@@ -1,5 +1,5 @@
-# About
-This repository is used to host websites for certain aspects of the successor game of Total Fire Towers called Potentially Fire Pillars.
+tba
 
-# How to contribute
-IDK bro
+manual: https://pfp-fangame.github.io/manual
+
+wip
