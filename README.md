@@ -1,5 +1,1 @@
-tba
-
-manual: https://pfp-fangame.github.io/manual
-
-wip
+does no t work
